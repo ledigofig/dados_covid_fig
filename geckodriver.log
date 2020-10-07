@@ -18,3 +18,1284 @@ TimedPromise@chrome://marionette/content/sync.js:230:10
 interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
 webdriverClickElement@chrome://marionette/content/interaction.js:182:31
 1601660820660	Marionette	INFO	Stopped listening on port 41083
+1601905110713	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegrw9bQ"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601905128016	Marionette	INFO	Listening on port 40219
+1601905131179	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601905175755	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1601909590811	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXC7V7S"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601909613483	Marionette	INFO	Listening on port 35485
+1601909613606	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601909681430	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAf8km6"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601909693040	Marionette	INFO	Listening on port 34583
+1601909693074	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601909697995	Marionette	INFO	Stopped listening on port 35485
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.child2/domnode64, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 276 getMutations
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1601910170889	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1601916336597	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOc9rpV"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601916357372	Marionette	INFO	Listening on port 36785
+1601916357457	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqFH4/yJ/l/pt_BR/nIkaFz-gvPq.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeE8qDc_eGVrOLc7PuiKfsc37PB_FHTXuVjs8H8UdNe5WB5_reyUzHoIkoqoc8PAznTiFVe9Tt7Ook9D729FpUrl, line 13: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ipy34/yU/l/pt_BR/-6fueasxg6Q.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeG7-e71nEuAYNMDV7sIoN0OKJmyDsROWbcombIOxE5Zt6IRMCDDRpcdzL99oJmkTPYPO65ct1QND-J_yKYFdzGb, line 1554: unreachable code after return statement
+
+(firefox:12006): GLib-GObject-CRITICAL **: 13:01:50.921: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12006): GLib-GObject-WARNING **: 13:01:50.921: ../../../gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f9a75fcf710' of type 'MaiAtkType21'
+
+(firefox:12006): GLib-GObject-CRITICAL **: 13:01:50.961: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12006): GLib-GObject-CRITICAL **: 13:01:50.961: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12006): GLib-GObject-WARNING **: 13:01:50.962: ../../../gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f9a6d17bdd0' of type 'MaiAtkType139'
+
+(firefox:12006): GLib-GObject-WARNING **: 13:01:50.962: ../../../gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f9a6d17be90' of type 'MaiAtkType139'
+
+(firefox:12006): GLib-GObject-CRITICAL **: 13:01:50.965: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12006): GLib-GObject-CRITICAL **: 13:01:50.966: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12006): GLib-GObject-WARNING **: 13:01:50.982: ../../../gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f9a6da3ab90' of type 'MaiAtkType139'
+JavaScript warning: resource://devtools/client/shared/demangle.js, line 0: Successfully compiled asm.js code (total compilation time 70ms)
+
+(firefox:12006): GLib-GObject-CRITICAL **: 13:01:53.871: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12006): GLib-GObject-CRITICAL **: 13:01:53.872: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12006): GLib-GObject-CRITICAL **: 13:01:56.410: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12006): GLib-GObject-WARNING **: 13:04:37.360: ../../../gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f9a6da75530' of type 'MaiAtkType21'
+
+(firefox:12006): GLib-GObject-CRITICAL **: 13:04:37.429: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12006): GLib-GObject-CRITICAL **: 13:04:37.538: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12006): GLib-GObject-WARNING **: 13:05:39.873: ../../../gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f9a67cbac50' of type 'MaiAtkType139'
+
+(firefox:12006): GLib-GObject-WARNING **: 13:06:33.168: ../../../gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f9a75294ad0' of type 'MaiAtkType139'
+
+(firefox:12006): GLib-GObject-WARNING **: 13:06:33.168: ../../../gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f9a75294170' of type 'MaiAtkType139'
+
+(firefox:12006): GLib-GObject-CRITICAL **: 13:08:36.194: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12006): GLib-GObject-WARNING **: 13:08:53.691: ../../../gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f9a6b292dd0' of type 'MaiAtkType21'
+
+(firefox:12006): GLib-GObject-CRITICAL **: 13:08:56.564: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12006): GLib-GObject-WARNING **: 13:09:45.346: ../../../gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f9a6b090b30' of type 'MaiAtkType139'
+
+(firefox:12006): GLib-GObject-WARNING **: 13:09:45.346: ../../../gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f9a6b0902f0' of type 'MaiAtkType139'
+
+(firefox:12006): GLib-GObject-CRITICAL **: 13:09:48.309: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12006): GLib-GObject-WARNING **: 13:09:52.048: ../../../gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f9a65545950' of type 'MaiAtkType139'
+console.error: (new TypeError("mimeType is undefined", "resource://devtools/client/netmonitor/src/components/request-details/RequestPanel.js", 205))
+JavaScript error: resource://devtools/client/netmonitor/src/components/request-details/RequestPanel.js, line 205: TypeError: mimeType is undefined
+console.error: "Error sending event: serverWebSocketClosed"
+console.error: (new Error("undefined passed where a value is required", "resource://devtools/shared/protocol/types.js", 115))
+Error: undefined passed where a value is required: identityWrite@resource://devtools/shared/protocol/types.js:115:11
+write@resource://devtools/shared/protocol/Request.js:117:22
+write@resource://devtools/shared/protocol/Request.js:43:26
+_sendEvent@resource://devtools/shared/protocol/Actor.js:66:24
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+webSocketClosed@resource://devtools/server/actors/network-monitor/websocket-actor.js:96:10
+
+console.error: "Error sending event: serverWebSocketClosed"
+console.error: (new Error("undefined passed where a value is required", "resource://devtools/shared/protocol/types.js", 115))
+Error: undefined passed where a value is required: identityWrite@resource://devtools/shared/protocol/types.js:115:11
+write@resource://devtools/shared/protocol/Request.js:117:22
+write@resource://devtools/shared/protocol/Request.js:43:26
+_sendEvent@resource://devtools/shared/protocol/Actor.js:66:24
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+webSocketClosed@resource://devtools/server/actors/network-monitor/websocket-actor.js:96:10
+
+1601919005359	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1jVg81"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601919023098	Marionette	INFO	Listening on port 42861
+1601919024620	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601919056887	Marionette	INFO	Stopped listening on port 42861
+1601919128865	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecx7W45"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601919133178	Marionette	INFO	Listening on port 37437
+1601919133185	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601919140964	Marionette	INFO	Stopped listening on port 36785
+1601919185452	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5LNslW"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601919189180	Marionette	INFO	Listening on port 45325
+1601919189288	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601919192948	Marionette	INFO	Stopped listening on port 37437
+1601919300220	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiTkC73"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601919307374	Marionette	INFO	Listening on port 46255
+1601919307475	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601919311047	Marionette	INFO	Stopped listening on port 45325
+1601919372702	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqUa0oV"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601919378189	Marionette	INFO	Listening on port 39367
+1601919378224	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601919423517	Marionette	INFO	Stopped listening on port 39367
+1601919673212	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyOJnyW"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601919678394	Marionette	INFO	Listening on port 42845
+1601919678430	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601919702837	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJbuoHO"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601919709997	Marionette	INFO	Listening on port 36509
+1601919710070	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601919750202	Marionette	INFO	Stopped listening on port 42845
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1601919758243	Marionette	INFO	Stopped listening on port 36509
+1601920271762	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilew9XPXG"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601920279604	Marionette	INFO	Listening on port 36817
+1601920280566	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601920283447	Marionette	INFO	Stopped listening on port 46255
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1601921356464	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileT1TW0A"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601921363464	Marionette	INFO	Listening on port 46303
+1601921363493	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601921373285	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8psGUn"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601921378022	Marionette	INFO	Listening on port 33225
+1601921378108	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601921388666	Marionette	INFO	Stopped listening on port 46303
+1601921389174	Marionette	INFO	Stopped listening on port 36817
+1601921674767	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0w4g7z"
+1601921682478	Marionette	INFO	Stopped listening on port 33225
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601921682952	Marionette	INFO	Listening on port 41287
+1601921682996	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601921815655	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepujW70"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601921820334	Marionette	INFO	Listening on port 40093
+1601921820369	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601921821263	Marionette	INFO	Stopped listening on port 41287
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1601922018265	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeFbjoQ"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601922023259	Marionette	INFO	Listening on port 35113
+1601922023283	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1601922181694	Marionette	INFO	Stopped listening on port 35113
+1601922187685	Marionette	INFO	Stopped listening on port 40093
+1601922492417	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemQSPZK"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601922496728	Marionette	INFO	Listening on port 34987
+1601922496738	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1601922657089	Marionette	INFO	Stopped listening on port 34987
+1601922657818	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilev0y89a"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601922667545	Marionette	INFO	Listening on port 32931
+1601922667652	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1601922787119	Marionette	INFO	Stopped listening on port 32931
+1601922800536	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSKBfML"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601922804950	Marionette	INFO	Listening on port 46413
+1601922804953	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: chrome://browser/content/pageinfo/pageInfo.js, line 573: NS_ERROR_IN_PROGRESS: Component returned failure code: 0x804b000f (NS_ERROR_IN_PROGRESS) [nsICacheEntry.dataSize]
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1601923118285	Marionette	INFO	Stopped listening on port 46413
+1601923155476	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEqBq60"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601923160427	Marionette	INFO	Listening on port 39569
+1601923160497	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1601923212144	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5k56l2"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601923220041	Marionette	INFO	Listening on port 41615
+1601923220073	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601923221454	Marionette	INFO	Stopped listening on port 39569
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://activity-stream/lib/ToolbarPanelHub.jsm, line 540: TypeError: learnMoreLink is null
+1601923274332	Marionette	INFO	Stopped listening on port 41615
+1601927901374	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemRoiIm"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601927918783	Marionette	INFO	Listening on port 38345
+1601927918883	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ, line 104: Script terminated by timeout at:
+G</c.$10@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:104:1
+G</c.$9@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:104:1962
+G</c.$16@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:104:4886
+G</c.$10@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:104:2729
+G</c.$9@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:104:1962
+G</c.$16@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:104:4886
+G</c.$10@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:104:2729
+G</c.$9@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:104:1962
+G</c.read@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:104:1725
+a@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:104:996
+a</c.$20@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:119:4053
+a</c.notify/<@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:119:2735
+a</c.notify@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:119:2711
+a</c.run@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:105:1391
+o</c.$32@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:97:4359
+o</c.$26/<@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:97:3018
+o</c.$31/</c<@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:97:2556
+O@https://static.xx.fbcdn.net/rsrc.php/v3idKL4/yE/l/pt_BR/3np7eIA1X38AfVfvyGFd_RBRbAGVUe6FaTD07l44oN6KdXzu2xXcW_P3AKiq1QjuhoKJCzWShYsFvcDoTAM0EqxEFtf17OxY-0HaNAxxVRkD7eTrk93wdXnDmmdD6wSiRtoNDKOI_euYFr_CEMou87TcbQOV4VaCWoiT5oQbYaUbLE94LvwMDOZ3AAJWdLUnDvlqCzoOy2oRzFrRL6dUflBeUmB9ESnFlPMD_6hH5nUDWI5JpFyWfjBWwQciRDWez0L4p3_7.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeHkcICQy6IGxNphwZqybqQEf-nnpV68P-N_6eelXrw_44h4yAmylSD-EfspFR8LMGo8cu285XbQw1LzTOTFhELu:406:5194
+schedule@https://static.xx.fbcdn.net/rsrc.php/v3issy4/yV/l/pt_BR/vjQdBwjME_I.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeE_OkqV6c4H4QFARBO_-9ev0dm1zX509_rR2bXNfnT3-mL35v3dthIXzwN9e2Z22Kz4mvSaRMKiB-8tz7Gx_xZM:250:171
+o</c.$31/<@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:97:2532
+m@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:79:3585
+h</c.subscribe@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:79:1558
+o</c.$31@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:97:2636
+o</c.$26@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:97:3001
+next@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:97:1550
+next@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:79:3345
+next@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:79:3345
+a/this.$4<@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:85:474
+m@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:79:3585
+h</c.subscribe@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:79:1558
+a</c.subscribe@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:85:1028
+a/f<@https://static.xx.fbcdn.net/rsrc.php/v3issy4/yV/l/pt_BR/vjQdBwjME_I.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeE_OkqV6c4H4QFARBO_-9ev0dm1zX509_rR2bXNfnT3-mL35v3dthIXzwN9e2Z22Kz4mvSaRMKiB-8tz7Gx_xZM:220:562
+m@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:79:3585
+h</c.subscribe@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:79:1558
+a@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:97:1444
+a@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:97:822
+c</d.executeWithSource/<@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:110:5757
+m@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:79:3585
+h</c.subscribe@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:79:1558
+h</c.finally/<@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:79:1247
+m@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:79:3585
+h</c.subscribe@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:79:1558
+i/<@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:86:555
+m@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:79:3585
+h</c.subscribe@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:79:1558
+p</c.$3@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:150:2880
+p</c.prepare@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:150:1807
+a/s<@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:152:932
+wrapPrepareQueryResource@https://static.xx.fbcdn.net/rsrc.php/v3idKL4/yE/l/pt_BR/3np7eIA1X38AfVfvyGFd_RBRbAGVUe6FaTD07l44oN6KdXzu2xXcW_P3AKiq1QjuhoKJCzWShYsFvcDoTAM0EqxEFtf17OxY-0HaNAxxVRkD7eTrk93wdXnDmmdD6wSiRtoNDKOI_euYFr_CEMou87TcbQOV4VaCWoiT5oQbYaUbLE94LvwMDOZ3AAJWdLUnDvlqCzoOy2oRzFrRL6dUflBeUmB9ESnFlPMD_6hH5nUDWI5JpFyWfjBWwQciRDWez0L4p3_7.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeHkcICQy6IGxNphwZqybqQEf-nnpV68P-N_6eelXrw_44h4yAmylSD-EfspFR8LMGo8cu285XbQw1LzTOTFhELu:383:4516
+a@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:152:887
+a@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:186:1921
+a@https://static.xx.fbcdn.net/rsrc.php/v3iQjZ4/yB/l/pt_BR/UXSkZE4dsbYVIRBC5gc4Hw2OsHMu9PeitXE2VmyrovLCZ0aDyazF6WpAq5j0fsz3Z0_Vb2EL7Gnhwg2__9XV2TbxEvAmwIMc2WV0VnzyMbHODX1Aw0DYg54LUfmdw46QY23G55bZimpko3IWmgIIiP5KpaUYVY0zcpoovU-mW5uw3Q0Jn1TQ8CSN1prflqBtkguQQBYw4HPjSldbbm6cRJiR-X61YcdHNOxxfdN.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeFSdPsOQJtwRdavCa1ZYOP1CkQjBGcIqp8KRCMEZwiqnxjFgglNeUcinXME0lXa3Tst_dy79JAQix0Y_YHP27-X:31:875
+Zg@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:216:66256
+Yj@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:216:120579
+Jj@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:216:111815
+Ij@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:216:111788
+sj@https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/B1bXLTmdccd.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeEUP37TDCUCm94ERZSnsuqHMzP-iiBnYCozM_6KIGdgKjHuyeOKDB5GtTipOMZHbeSSPby_9GGoL1_5hIkkGRsZ:216:106621
+aa@https://static.xx.fbcdn.net/rsrc.php/v3/yH/r/83RD0ArWG4d.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeF5ybAFF9qsw65Hfxo2QQgH5sAI2vGPCzTmwAja8Y8LNNYrpcNwsVCmag_TGsUBw-Ulo2qTk5YLIImjR9KqaV-p:201:3970
+$@https://static.xx.fbcdn.net/rsrc.php/v3/yH/r/83RD0ArWG4d.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeF5ybAFF9qsw65Hfxo2QQgH5sAI2vGPCzTmwAja8Y8LNNYrpcNwsVCmag_TGsUBw-Ulo2qTk5YLIImjR9KqaV-p:201:3588
+c.port1.onmessage@https://static.xx.fbcdn.net/rsrc.php/v3/yH/r/83RD0ArWG4d.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeF5ybAFF9qsw65Hfxo2QQgH5sAI2vGPCzTmwAja8Y8LNNYrpcNwsVCmag_TGsUBw-Ulo2qTk5YLIImjR9KqaV-p:201:1616
+
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1601928283468	Marionette	INFO	Stopped listening on port 38345
+1601928287286	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuAA2xP"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601928299498	Marionette	INFO	Listening on port 35775
+1601928299558	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.child2/domnode312, please file a bug on bugzilla.mozilla.org!"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.trace: 
+resource://devtools/client/fronts/walker.js 276 getMutations
+console.error: "getApplied@resource://devtools/server/actors/styles.js:566:5\nhandler@resource://devtools/shared/protocol/Actor.js:166:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.child2/domnode300, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 276 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.child2/domnode300, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 276 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.child2/domnode301, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 276 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.child2/domnode297, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 276 getMutations
+console.error: "Error while calling actor 'pagestyle's method 'getUsedFontFaces'" "node is null"
+console.error: "getUsedFontFaces@resource://devtools/server/actors/styles.js:363:24\nhandler@resource://devtools/shared/protocol/Actor.js:166:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/styles.js:566:5)", "resource://devtools/shared/protocol/Front.js", 327))
+console.error: "Could not get the list of font families" (new Error("Protocol error (TypeError): node is null from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/styles.js:363:24)", "resource://devtools/shared/protocol/Front.js", 327))
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1601928572005	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileI2RYz3"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601928589047	Marionette	INFO	Listening on port 44339
+1601928589204	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://activity-stream/lib/PlacesFeed.jsm, line 198: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.addObserver]
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 123: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2529\"  data: no]"
+console.error: "Could not load engine amazon@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2529\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2529\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2529\"  data: no]"
+console.error: "Could not load engine priberam@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2529\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+1601928597085	Marionette	INFO	Stopped listening on port 44339
+1601928614179	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5aBOhy"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601928619374	Marionette	INFO	Listening on port 34113
+1601928619399	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1601928826175	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTQdcEy"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601928831339	Marionette	INFO	Listening on port 39155
+1601928831392	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1601928925557	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1601928939909	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1601928957114	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1601929144695	Marionette	INFO	Stopped listening on port 39155
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 920))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:920:7
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1636:20
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: (new Error("Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 28))
+Error: Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.: generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:28:15
+updateSelectionCssSelectors@resource://devtools/client/inspector/inspector.js:1450:32
+onNewSelection@resource://devtools/client/inspector/inspector.js:1521:10
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1636:20
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2274))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2274))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1601929738743	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1diHsy"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601929757749	Marionette	INFO	Listening on port 40875
+1601929757851	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1601929861514	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaCQHLQ"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601929866280	Marionette	INFO	Listening on port 41593
+1601929866333	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2274))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2274))
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:989:5\nhandler@resource://devtools/shared/protocol/Actor.js:166:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/styles.js:989:5)", "resource://devtools/shared/protocol/Front.js", 327))
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:989:5\nhandler@resource://devtools/shared/protocol/Actor.js:166:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:989:5\nhandler@resource://devtools/shared/protocol/Actor.js:166:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/styles.js:989:5)", "resource://devtools/shared/protocol/Front.js", 327))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/styles.js:989:5)", "resource://devtools/shared/protocol/Front.js", 327))
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.child2/domnode925, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 276 getMutations
+console.error: "Error writing request: getGrids"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1601930266271	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNhHcS8"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601930284475	Marionette	INFO	Listening on port 41633
+1601930284566	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqFH4/yJ/l/pt_BR/nIkaFz-gvPq.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeE8qDc_eGVrOLc7PuiKfsc37PB_FHTXuVjs8H8UdNe5WB5_reyUzHoIkoqoc8PAznTiFVe9Tt7Ook9D729FpUrl, line 13: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i3jz4/yj/l/pt_BR/9wH5g8e5dHq.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeFEaFagdKQeIlIhPZBg9W0V2Lr9HKOkvpPYuv0co6S-k4UYlFCW5IEZT_q310TLljAHQeUMClmEDwoqB2-BvqU4, line 1552: unreachable code after return statement
+1601930712936	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilep0ZQia"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601930717358	Marionette	INFO	Listening on port 40573
+1601930717451	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 920))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:920:7
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1636:20
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: (new Error("Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 28))
+Error: Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.: generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:28:15
+updateSelectionCssSelectors@resource://devtools/client/inspector/inspector.js:1450:32
+onNewSelection@resource://devtools/client/inspector/inspector.js:1521:10
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1636:20
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2274))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2274))
+console.error: "Error writing request: getGrids"
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+console.error: (new Error("Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 28))
+Error: Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.: generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:28:15
+updateSelectionCssSelectors@resource://devtools/client/inspector/inspector.js:1450:32
+onNewSelection@resource://devtools/client/inspector/inspector.js:1521:10
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1636:20
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 920))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:920:7
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1636:20
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2274))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2274))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2274))
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:989:5\nhandler@resource://devtools/shared/protocol/Actor.js:166:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/styles.js:989:5)", "resource://devtools/shared/protocol/Front.js", 327))
+console.error: "Error writing request: getGrids"
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:111:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:857:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:632:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 111, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 111))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:111:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:416:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 111, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 111))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:111:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:857:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:632:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 111, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 111))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:111:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:416:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 111, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 111))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:111:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:857:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:632:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 111, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 111))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:111:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:416:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 111, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 111))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1601931085889	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1b5Y7H"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601931114677	Marionette	INFO	Listening on port 39591
+1601931114711	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+(firefox:26198): GLib-GObject-CRITICAL **: 16:53:49.038: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:26198): GLib-GObject-CRITICAL **: 16:53:49.076: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:26198): GLib-GObject-WARNING **: 16:53:49.097: ../../../gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f65af8e6e30' of type 'MaiAtkType139'
+
+(firefox:26198): GLib-GObject-WARNING **: 16:53:49.097: ../../../gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f65af8e6e90' of type 'MaiAtkType139'
+
+(firefox:26198): GLib-GObject-CRITICAL **: 16:53:49.103: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:26198): GLib-GObject-CRITICAL **: 16:53:49.103: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:26198): GLib-GObject-WARNING **: 16:53:49.103: ../../../gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f65b3479230' of type 'MaiAtkType139'
+
+(firefox:26198): GLib-GObject-CRITICAL **: 16:53:49.123: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:26198): GLib-GObject-CRITICAL **: 16:53:49.123: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:26198): GLib-GObject-CRITICAL **: 16:53:49.123: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:26198): GLib-GObject-CRITICAL **: 16:53:49.216: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:26198): GLib-GObject-CRITICAL **: 16:53:51.559: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+console.error: "isValidHoverTarget rejected with unexpected reason:"
+console.error: (new TypeError("rule is undefined", "resource://devtools/client/inspector/rules/utils/utils.js", 186))
+console.error: "isValidHoverTarget rejected with unexpected reason:"
+console.error: (new TypeError("rule is undefined", "resource://devtools/client/inspector/rules/utils/utils.js", 186))
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+
+(firefox:26198): GLib-GObject-WARNING **: 16:56:03.637: ../../../gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f65ab0d2cb0' of type 'MaiAtkType139'
+
+(firefox:26198): GLib-GObject-WARNING **: 16:56:35.650: ../../../gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f65ab89eef0' of type 'MaiAtkType139'
+
+(firefox:26198): GLib-GObject-WARNING **: 16:57:02.097: ../../../gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f65ab89eef0' of type 'MaiAtkType139'
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:989:5\nhandler@resource://devtools/shared/protocol/Actor.js:166:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2274))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2274))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2274))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/styles.js:989:5)", "resource://devtools/shared/protocol/Front.js", 327))
+
+(firefox:26198): GLib-GObject-WARNING **: 16:57:55.900: ../../../gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f65aad45ef0' of type 'MaiAtkType139'
+
+(firefox:26198): GLib-GObject-CRITICAL **: 16:58:06.795: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:26198): GLib-GObject-CRITICAL **: 16:58:08.204: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:26198): GLib-GObject-WARNING **: 16:58:29.077: ../../../gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f65c4c96050' of type 'MaiAtkType139'
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.error: services.settings: 
+  pinning/pins Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+  Stack:
+    _validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:829:36
+_importChanges@resource://services-settings/RemoteSettingsClient.jsm:927:20
+
+console.warn: services.settings: blocklists/gfx sync interrupted by shutdown
+1601931517078	Marionette	INFO	Stopped listening on port 39591
+1601931536881	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVKTn08"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601931551348	Marionette	INFO	Listening on port 43711
+1601931551436	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+Gdk-Message: 17:03:35.273: firefox: Fatal IO error 11 (Recurso temporariamente indisponível) on X server :0.
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1601996086676	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileY5tb8M"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601996111568	Marionette	INFO	Listening on port 42481
+1601996111793	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601996115264	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqKICBE"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601996126675	Marionette	INFO	Listening on port 43053
+1601996126697	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601996136218	Marionette	INFO	Stopped listening on port 42481
+1601996170797	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileb7mG22"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601996177552	Marionette	INFO	Listening on port 41523
+1601996177618	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1601996183660	Marionette	INFO	Stopped listening on port 43053
+1601996195831	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBVDQX4"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601996201235	Marionette	INFO	Listening on port 44547
+1601996201254	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1601997417183	Marionette	INFO	Stopped listening on port 41523
+Gdk-Message: 11:36:18.551: firefox: Fatal IO error 11 (Recurso temporariamente indisponível) on X server :0.
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1602001229427	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4B430j"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602001238319	Marionette	INFO	Listening on port 35719
+1602001238391	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1602005955400	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile41dYx9"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602005960280	Marionette	INFO	Listening on port 40805
+1602005960318	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602006038531	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1602006148097	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiler4lW0F"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602006155195	Marionette	INFO	Listening on port 38393
+1602006155214	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602006162871	Marionette	INFO	Stopped listening on port 40805
+1602006233665	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1602006246685	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1602006264027	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1602006281599	Marionette	INFO	Stopped listening on port 38393
+1602006886036	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileW6cL9A"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602006890143	Marionette	INFO	Listening on port 40501
+1602006890153	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602006966556	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1602006979153	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1602006996066	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1602007011870	Marionette	INFO	Stopped listening on port 40501
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1602008516959	Marionette	INFO	Stopped listening on port 35719
+1602008521979	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileihzx76"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602008527750	Marionette	INFO	Listening on port 43261
+1602008527795	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+
+(firefox:13732): GLib-GObject-WARNING **: 14:37:12.301: g_object_get_is_valid_property: object class 'GdkX11DeviceCore' has no property named 'device-id'
+
+(firefox:13732): GLib-GObject-WARNING **: 14:37:13.424: g_object_get_is_valid_property: object class 'GdkX11DeviceCore' has no property named 'device-id'
+
+(firefox:13732): GLib-GObject-WARNING **: 14:37:18.551: g_object_get_is_valid_property: object class 'GdkX11DeviceCore' has no property named 'device-id'
+
+(firefox:13732): GLib-GObject-WARNING **: 14:40:53.571: g_object_get_is_valid_property: object class 'GdkX11DeviceCore' has no property named 'device-id'
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+console.error: "Error sending event: serverWebSocketClosed"
+console.error: (new Error("undefined passed where a value is required", "resource://devtools/shared/protocol/types.js", 115))
+Error: undefined passed where a value is required: identityWrite@resource://devtools/shared/protocol/types.js:115:11
+write@resource://devtools/shared/protocol/Request.js:117:22
+write@resource://devtools/shared/protocol/Request.js:43:26
+_sendEvent@resource://devtools/shared/protocol/Actor.js:66:24
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+webSocketClosed@resource://devtools/server/actors/network-monitor/websocket-actor.js:96:10
+
+1602011718679	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecoaYYx"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602011733741	Marionette	INFO	Listening on port 33929
+1602011733762	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602011813955	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1602011829414	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1602011846319	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1602011862976	Marionette	INFO	Stopped listening on port 33929
+1602013554053	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileruFe4A"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602013570895	Marionette	INFO	Listening on port 37975
+1602013570923	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602013649939	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1602013663061	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1602013680001	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1602013695918	Marionette	INFO	Stopped listening on port 37975
+Gdk-Message: 16:45:19.798: firefox: Fatal IO error 11 (Recurso temporariamente indisponível) on X server :0.
+
+1602078257771	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileI00RIu"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602078276874	Marionette	INFO	Listening on port 35623
+1602078276968	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqFH4/yJ/l/pt_BR/nIkaFz-gvPq.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeE8qDc_eGVrOLc7PuiKfsc37PB_FHTXuVjs8H8UdNe5WB5_reyUzHoIkoqoc8PAznTiFVe9Tt7Ook9D729FpUrl, line 13: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iCPo4/yk/l/pt_BR/2uMLpLMgZCM.js?_nc_x=nVIWV8jX4fp&_nc_eui2=AeFv2Ak81lqBMmVpGfiLwFHkeuJnurY9tRt64me6tj21GyPXl6COz5WqPTbocHJuP0Qz9jofKz7bNgH-LmBGPCbB, line 1533: unreachable code after return statement
+
+(firefox:18661): GLib-GObject-WARNING **: 10:05:25.562: g_object_get_is_valid_property: object class 'GdkX11DeviceCore' has no property named 'device-id'
+
+(firefox:18661): GLib-GObject-WARNING **: 10:05:35.574: g_object_get_is_valid_property: object class 'GdkX11DeviceCore' has no property named 'device-id'
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: "getLayout@resource://devtools/server/actors/styles.js:989:5\nhandler@resource://devtools/shared/protocol/Actor.js:166:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn1.child2/pagestyle26 (resource://devtools/server/actors/styles.js:989:5)", "resource://devtools/shared/protocol/Front.js", 327))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1602081985058	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqLWxAH"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602082007350	Marionette	INFO	Listening on port 43783
+1602082007590	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+console.error: "getLayout@resource://devtools/server/actors/styles.js:989:5\nhandler@resource://devtools/shared/protocol/Actor.js:166:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/styles.js:989:5)", "resource://devtools/shared/protocol/Front.js", 327))
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1602082512202	Marionette	INFO	Stopped listening on port 43783
+1602082515491	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletStqzD"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602082536484	Marionette	INFO	Listening on port 45031
+1602082536699	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1602082683137	Marionette	INFO	Stopped listening on port 45031
+1602082693560	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevvSGiN"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602082699042	Marionette	INFO	Listening on port 36445
+1602082699078	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1602082987540	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenz4yfn"
+1602082998115	Marionette	INFO	Stopped listening on port 36445
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602083002894	Marionette	INFO	Listening on port 34951
+1602083002968	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1602083247487	Marionette	INFO	Stopped listening on port 34951
+1602083294798	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile93tVV5"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602083306409	Marionette	INFO	Listening on port 40069
+1602083306438	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1602083403968	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1602083414149	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+
+(firefox:22110): GLib-GObject-WARNING **: 11:39:56.043: g_object_get_is_valid_property: object class 'GdkX11DeviceCore' has no property named 'device-id'
+
+(firefox:22110): GLib-GObject-WARNING **: 11:39:57.084: g_object_get_is_valid_property: object class 'GdkX11DeviceCore' has no property named 'device-id'
+1602085461335	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoHC8Sm"
+1602085477315	Marionette	INFO	Stopped listening on port 40069
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602085489341	Marionette	INFO	Listening on port 42907
+1602085489465	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1893: TypeError: currentPanel is undefined
+1602085976533	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8cGzK4"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1602085979258	Marionette	INFO	Stopped listening on port 42907
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602085990341	Marionette	INFO	Listening on port 34095
+1602085990390	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1602086208556	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2e6xeE"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602086214604	Marionette	INFO	Listening on port 45627
+1602086214691	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1602086218462	Marionette	INFO	Stopped listening on port 34095
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1602086405259	Marionette	INFO	Stopped listening on port 45627
+1602086451207	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileARPHZV"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602086456936	Marionette	INFO	Listening on port 33239
+1602086457024	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602086468687	Marionette	INFO	Stopped listening on port 33239
+1602086526737	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileomWovi"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602086533513	Marionette	INFO	Listening on port 42195
+1602086533559	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2274))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:989:5\nhandler@resource://devtools/shared/protocol/Actor.js:166:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/styles.js:989:5)", "resource://devtools/shared/protocol/Front.js", 327))
+console.error: "Error while calling actor 'pagestyle's method 'getUsedFontFaces'" "node is null"
+console.error: "getUsedFontFaces@resource://devtools/server/actors/styles.js:363:24\nhandler@resource://devtools/shared/protocol/Actor.js:166:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Could not get the list of font families" (new Error("Protocol error (TypeError): node is null from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/styles.js:363:24)", "resource://devtools/shared/protocol/Front.js", 327))
