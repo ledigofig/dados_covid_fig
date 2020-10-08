@@ -4,7 +4,7 @@ A computação busca resolver problemas, o problema em que stão trata da divulg
 
 ##### Script que Baixa  os dados do Covid de Figueirópolis d'Oeste no Estado de Mato Grosso
 
-- O municipio de Figueirópolis d'Oeste decidiu não divulgar os dados do covid resolveu vincular o portal  do estado de Nato Grosso;
+- O municipio de Figueirópolis d'Oeste decidiu não divulgar os dados do covid resolveu vincular o portal  do estado de Mato Grosso;
 
 ##### Fonte
 
