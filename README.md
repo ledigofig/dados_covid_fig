@@ -1,6 +1,6 @@
 # Baixa dados do Covid 
 
-A computação busca resolver problemas, o problema em que stão trata da divulgação por imagens em rede social dos dados da covid no municipio de Figueirópolis d'Oeste
+A computação busca resolver problemas, o problema em questão trata da divulgação por imagens em rede social dos dados da covid no municipio de Figueirópolis d'Oeste
 
 ##### Script que Baixa  os dados do Covid de Figueirópolis d'Oeste no Estado de Mato Grosso
 
